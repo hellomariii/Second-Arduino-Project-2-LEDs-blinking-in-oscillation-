@@ -16,6 +16,7 @@ Debugging lesson: Check breadboard connections carefully and verify power connec
 
 
 ## Code
+```cpp
 digitalWrite(redLED, HIGH);
 digitalWrite(yellowLED, LOW);
 delay(1000);
