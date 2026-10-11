@@ -13,6 +13,8 @@ LEDs alternate approximately once per second.
 Debugging lesson: Check breadboard connections carefully and verify power connections before reconnecting USB.
 
 ## Photos
+<img width="3024" height="4032" alt="IMG_1340" src="https://github.com/user-attachments/assets/95e49be6-6bd7-4e23-99f8-8e4eb9640ce0" />
+<img width="3024" height="4032" alt="IMG_1341" src="https://github.com/user-attachments/assets/48bca639-06d6-41f0-8a2e-c87c8cb03c35" />
 
 
 ## Code
